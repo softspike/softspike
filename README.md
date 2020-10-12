@@ -36,6 +36,11 @@ and available for any job opportunities
 <img align="left" alt="nodejs" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" width="32"/>
 <img align="left" alt="terminal" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GitHub" width="29px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact) 
+
+
+
 <br />
 
 ### 📺 Latest YouTube Videos
