@@ -63,15 +63,10 @@ and available for any job opportunities
 
 </details>
 
-
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact)](https://github.com/softspike/github-readme-stats)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact)]
 
 </details>
 
@@ -86,10 +81,6 @@ and available for any job opportunities
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=softspike.visitor-badge)
 
 
 
