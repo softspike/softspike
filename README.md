@@ -113,4 +113,7 @@ I am full stack dev looking to solve real world problems. I have a passion for l
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 
+<<<<<<< HEAD
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact)](https://github.com/softspike/github-readme-stats)
+=======
+>>>>>>> 88872aa0fbbf6913038f1c74041ac984267c807e
