@@ -1,6 +1,8 @@
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
-I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out @ikshitijsingh or give some ♥ on mail. Feel free to reach out in case you want to just get in touch also.
+I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out @ikshitijsingh or give some ♥ on mail. Feel free to reach out in case you want to just get in touch also. 
+
+and available for any job opportunities
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
@@ -113,7 +115,10 @@ I am full stack dev looking to solve real world problems. I have a passion for l
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 
-<<<<<<< HEAD
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact)](https://github.com/softspike/github-readme-stats)
-=======
->>>>>>> 88872aa0fbbf6913038f1c74041ac984267c807e
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=softspike.visitor-badge)
+
+
+
