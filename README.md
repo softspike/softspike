@@ -7,7 +7,7 @@ and available for any job opportunities
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Husband, Developer, and Teacher!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -19,7 +19,6 @@ and available for any job opportunities
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -32,7 +31,8 @@ and available for any job opportunities
 <img align="left" alt="javascript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="32"/>
 <img align="left" alt="java" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" width="32"/>
 <img align="left" alt="python" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="32"/>
-<img align="left" alt="go" src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" width="32"/>
+<img align="left" alt="golang" src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" width="32"/>
+<img align="left" alt="mongodb" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" width="32"/>
 <img align="left" alt="nodejs" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" width="32"/>
 <img align="left" alt="terminal" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GitHub" width="29px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
