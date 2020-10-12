@@ -22,10 +22,10 @@ and available for any job opportunities
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+//------------------
 ### Languages and Tools:
 
-<img align="left" alt="VS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="VS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="32px"/>
 <img align="left" alt="html5" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="32"/>
 <img align="left" alt="css3" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="32"/>
 <img align="left" alt="bootstrap" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="32"/>
@@ -35,9 +35,9 @@ and available for any job opportunities
 <img align="left" alt="python" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="32"/>
 <img align="left" alt="go" src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" width="32"/>
 <img align="left" alt="nodejs" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" width="32"/>
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
----
+<img align="left" alt="terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+//------------------
 
 ### 📺 Latest YouTube Videos
 
