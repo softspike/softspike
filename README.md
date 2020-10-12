@@ -50,34 +50,21 @@ and available for any job opportunities
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-2. 🎉 Merged PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. 💪 Opened PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+2. 🎉 Merged PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [softspike/softspike](https://github.com/softspike/softspike)
+3. 💪 Opened PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [softspike/softspike](https://github.com/softspike/softspike)
 4. 🎉 Merged PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 <!--END_SECTION:activity-->
 
 </details>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact)](https://github.com/softspike/github-readme-stats)
+
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -100,7 +87,6 @@ and available for any job opportunities
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact)](https://github.com/softspike/github-readme-stats)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=softspike.visitor-badge)
