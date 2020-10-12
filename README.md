@@ -62,14 +62,14 @@ and available for any job opportunities
 <!--END_SECTION:activity-->
 
 </details>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact)](https://github.com/softspike/github-readme-stats)
+
 
 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact)](https://github.com/softspike/github-readme-stats)
 
 
 
