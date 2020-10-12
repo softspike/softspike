@@ -24,8 +24,7 @@ and available for any job opportunities
 <br />
 
 ### Languages and Tools:
-
-<img align="left" alt="VS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="29px"/>
+<img align="left" alt="VS" src="https://www.cleanpng.com/png-sublime-text-text-editor-macos-source-code-editor-1908627/" width="29px"/>
 <img align="left" alt="html5" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="32"/>
 <img align="left" alt="css3" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="32"/>
 <img align="left" alt="bootstrap" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="32"/>
