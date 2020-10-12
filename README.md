@@ -64,9 +64,10 @@ and available for any job opportunities
 </details>
 
 <details>
+  
   <summary>:zap: GitHub Stats</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact)
 
 </details>
 
