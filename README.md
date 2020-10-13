@@ -31,7 +31,7 @@ and available for any job opportunities
 <img align="left" alt="sass" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" width="32"/>
 <img align="left" alt="javascript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="32" height="34"/>
 <img align="left" alt="java" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" width="35" height="34"/>
-<img align="left" alt="python" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="32"/>
+<img align="left" alt="python" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="32" height="34"/>
 <img align="left" alt="rlang" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" width="35" height="34"/>
 <img align="left" alt="golang" src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" width="32" height="34"/>
 <img align="left" alt="mongodb" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" width="35"/>
