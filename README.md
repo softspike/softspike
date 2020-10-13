@@ -5,7 +5,7 @@ I am full stack dev looking to solve real world problems. I have a passion for l
 and available for any job opportunities
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣 ![Here](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8582542#overview)
+- 🌱 I’m currently learning everything 🤣 [Here] [course1]
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
@@ -75,6 +75,7 @@ and available for any job opportunities
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
+[course1]: (https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8582542#overview)
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
