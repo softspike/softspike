@@ -23,7 +23,7 @@ and available for any job opportunities
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="golang" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" width="35"/>
+<img align="left" alt="rlang" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" width="35" height="35"/>
 <img align="left" alt="VS" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="34px"/>
 <img align="left" alt="html5" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="35"/>
 <img align="left" alt="css3" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="35"/>
