@@ -75,7 +75,7 @@ and available for any job opportunities
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
-[course1]: (https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8582542#overview)
+[course1]: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8582542#overview
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
