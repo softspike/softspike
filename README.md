@@ -1,4 +1,4 @@
-### Hi there, I'm Evaldas - aka [softspike] 👋
+### Hello there, I'm Evaldas - aka [softspike] 👋
 ## I'm a Husband, Developer, and Teacher!!
 I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out @ikshitijsingh or give some ♥ on mail. Feel free to reach out in case you want to just get in touch also. 
 
@@ -20,8 +20,8 @@ and available for any job opportunities
 ### Languages and Tools:
 
 <img align="left" alt="VS" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="34px"/>
-<img align="left" alt="html5" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="35"/>
-<img align="left" alt="css3" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="35"/>
+<img align="left" alt="html5" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="34"/>
+<img align="left" alt="css3" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="34"/>
 <img align="left" alt="bootstrap" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="32" height="34"/>
 <img align="left" alt="sass" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" width="32"/>
 <img align="left" alt="javascript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="32" height="34"/>
@@ -31,8 +31,8 @@ and available for any job opportunities
 <img align="left" alt="golang" src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" width="32" height="34"/>
 <img align="left" alt="mongodb" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" width="35"/>
 <img align="left" alt="nodejs" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" width="35"/>
-<img align="left" alt="terminal" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GitHub" width="29px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="terminal" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="GitHub" width="31px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact) 
 
