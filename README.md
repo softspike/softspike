@@ -6,7 +6,6 @@ I'm a Husband, Developer, and Teacher!!I am full stack dev looking to solve real
 and available for any job opportunities
 
 
-<h3>⚡️ A Few Quick Facts</h3>
 -🌱 Currently learning [Udemy web][course1]! Web Developer in 2020 with HTML, CSS, Javascript, React, Node.js
 -🥅 2020 Goals: Contribute to open source projects
 -📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
