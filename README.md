@@ -5,22 +5,21 @@ I'm a Husband, Developer, and Teacher!!I am full stack dev looking to solve real
 [![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:dhruvjainpenny@gmail.com)
 
 and available for any job opportunities
+<h3>⚡️ A Few Quick Facts</h3>
+<ul>
+<li>🌱 I’m currently learning 🤣  <a href="https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/22648019#overview">Web Developer in 2020 with HTML, CSS, Javascript, React, Node.js</a>.</li>
+<li>🥅 2020 Goals: Contribute to open source projects
+<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
+<li>⚡ Fun fact: I love to play guitar / drums
+</ul>
 
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣  [Udemy web][course1]!
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
-<h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://slim.netlify.app">my blog</a>.</li>
 <li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
+
 <li>🎉 Fun Fact: 我也会讲中文。</li>
 </ul>
 <h2>✒️ Recent Posts</h2>
