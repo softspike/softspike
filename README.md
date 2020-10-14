@@ -17,7 +17,7 @@ Motivated self learner.
 
 
 [course1]: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8582542#overview
-<img align="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact"/>
+
 <h3>Languages and Tools I enjoy using</h3>
 
 <img align="left" alt="VS" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="32px" height="34"/>
@@ -35,11 +35,10 @@ Motivated self learner.
 <img align="left" alt="terminal" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GitHub" width="31px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+### 📺 Latest YouTube Videos
+  <summary>:zap: GitHub Stats</summary>
+  <img align="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact"/>
 
-
-
-
-<br />
 
 ### 📺 Latest YouTube Videos
 
@@ -68,8 +67,7 @@ Motivated self learner.
 
 <details>
   
-  <summary>:zap: GitHub Stats</summary>
-  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact)
 
 </details>
