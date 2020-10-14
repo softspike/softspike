@@ -7,11 +7,11 @@ and available for any job opportunities
 
 
 <h3>⚡️ A Few Quick Facts</h3>
-<li>🌱 I’m currently learning [Udemy web][course1]! Web Developer in 2020 with HTML, CSS, Javascript, React, Node.js</a>.</li>
-<li>🥅 2020 Goals: Contribute to open source projects
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-<li>🎉 Fun fact: I love to play guitar / drums
-</ul>
+-🌱 Currently learning [Udemy web][course1]! Web Developer in 2020 with HTML, CSS, Javascript, React, Node.js
+-🥅 2020 Goals: Contribute to open source projects
+-📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
+-🎉 Fun fact: I love to play guitar / drums
+
 
 [course1]: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8582542#overview
 
