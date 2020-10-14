@@ -4,7 +4,7 @@ I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/
 I'm a Husband, Developer, and Teacher!!I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out @ikshitijsingh or give some ♥ on mail. Feel free to reach out in case you want to just get in touch also. and available for any job opportunities 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhruvjaink/)](https://www.linkedin.com/in/midhruvjaink/)
+[![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/brian-collins-6426301ab/)](https://www.linkedin.com/in/brian-collins-6426301ab/)
 [![Outlook Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:dhruvjainpenny@gmail.com)
 
 <h3>⚡️ A Few Quick Facts</h3>
