@@ -20,7 +20,7 @@ and available for any job opportunities
 <img align="left" alt="softspike | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 <br />
 
-### Languages and Tools:
+### Languages and Tools uages and frameworks you enjoy using, or currently learning:
 
 <img align="left" alt="VS" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="32px" height="34"/>
 <img align="left" alt="html5" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="34"/>
