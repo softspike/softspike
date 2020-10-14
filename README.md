@@ -10,7 +10,6 @@ and available for any job opportunities
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact" />
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning [Udemy web][course1]!
-- 📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
 - 🥅 2020 Goals: Start contributing to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 -
