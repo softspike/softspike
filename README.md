@@ -6,7 +6,7 @@ I am full stack dev looking to solve real world problems. I have a passion for l
 [![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:dhruvjainpenny@gmail.com)
 
 and available for any job opportunities
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact" />
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣  [Udemy web][course1]!
 - 👯 I’m looking to collaborate with other content creators
@@ -122,7 +122,7 @@ and available for any job opportunities
 
 <details>
 <summary>:bar_chart: Recent Anilist Activity</summary>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact" />
+  
 <!-- anilist_activity starts -->
 * [watched episode 4 - 6](https://anilist.co/activity/126439022) of [UQ Holder!: Mahou Sensei Negima! 2](https://anilist.co/anime/21855)
 * [watched episode 2](https://anilist.co/activity/126435449) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
