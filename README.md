@@ -12,7 +12,7 @@ and available for any job opportunities
 - 🌱 I’m currently learning [Udemy web][course1]!
 - 🥅 2020 Goals: Start contributing to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
--
+
 
 
 
