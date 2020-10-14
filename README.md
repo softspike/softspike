@@ -7,12 +7,12 @@ I am full stack dev looking to solve real world problems. I have a passion for l
 
 and available for any job opportunities
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact" />
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning [Udemy web][course1]!
-- 🥅 2020 Goals: Start contributing to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning everything 🤣  [Udemy web][course1]!
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / drums
 
 
 
