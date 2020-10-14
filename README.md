@@ -14,12 +14,10 @@ Motivated self learner.
 - 🎉 Fun fact: I love to play guitar / drums 
 - 📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
 
-<img align="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact"/>
+
 
 [course1]: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8582542#overview
-
-<h2>✒️ Recent Posts</h2>
-
+<img align="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact"/>
 <h3>Languages and Tools I enjoy using</h3>
 
 <img align="left" alt="VS" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="32px" height="34"/>
