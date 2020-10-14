@@ -6,12 +6,27 @@ I am full stack dev looking to solve real world problems. I have a passion for l
 [![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:dhruvjainpenny@gmail.com)
 
 and available for any job opportunities
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact" />
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣  [Udemy web][course1]!
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning [Udemy web][course1]!
+- 📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
+- 🥅 2020 Goals: Start contributing to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
+-
+
+
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
+<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
+<li>📝 I regulary write articles on <a href="https://slim.netlify.app">my blog</a>.</li>
+<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
+<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
+<li>🎉 Fun Fact: 我也会讲中文。</li>
+</ul>
+<h2>✒️ Recent Posts</h2>
 
 ### Connect with me:
 
@@ -142,17 +157,7 @@ and available for any job opportunities
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-<li>📝 I regulary write articles on <a href="https://slim.netlify.app">my blog</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
-</ul>
-<h2>✒️ Recent Posts</h2>
+
 <details>
     <summary>Explore</summary>
     <li><a target="_blank" href="https://slim.netlify.app/pitfalls-of-the-singleton-bean">Pitfalls of the Singleton Bean — October 11, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/clickjacking-using-iframes-a-case-study">Clickjacking Using Iframes: A Case Study — July 12, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/cobol---the-hottest-programming-language-out-there">COBOL — The Hottest Programming Language Out There — May 03, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/seattle.rain.corona">seattle. rain. corona. — April 12, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/i-was-wrong-about-startup-meetups">i was wrong about startup meetups — August 29, 2019</a></li>
