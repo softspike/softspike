@@ -8,7 +8,7 @@ Motivated self learner.
 [![Outlook Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:dhruvjainpenny@gmail.com)
 
 <h3>⚡️ A Few Quick Facts</h3>
-<img align="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact"/>
+
 - 🌱 Currently improving code skills with [Udemy course][course1] Web Developer in 2020: <strong> HTML, CSS, Javascript, React, Node.js </strong>
 - 🥅 2020 Goals: Contribute to open source projects
 - 🎉 Fun fact: I love to play guitar / drums 
