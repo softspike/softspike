@@ -15,7 +15,7 @@ I'm a Husband, Developer, and Teacher!!I am full stack dev looking to solve real
 
 [course1]: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8582542#overview
 
-<h2>🚀 Some Tools I Use</h2>
+<h3>🚀 Some Tools I Use</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
@@ -40,8 +40,8 @@ I'm a Husband, Developer, and Teacher!!I am full stack dev looking to solve real
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </p>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 
 
