@@ -122,7 +122,7 @@ and available for any job opportunities
 
 <details>
 <summary>:bar_chart: Recent Anilist Activity</summary>
-  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact" />
 <!-- anilist_activity starts -->
 * [watched episode 4 - 6](https://anilist.co/activity/126439022) of [UQ Holder!: Mahou Sensei Negima! 2](https://anilist.co/anime/21855)
 * [watched episode 2](https://anilist.co/activity/126435449) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
@@ -139,7 +139,9 @@ and available for any job opportunities
 </details>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact" />
+
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
