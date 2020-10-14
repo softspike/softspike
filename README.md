@@ -5,17 +5,24 @@ I'm a Husband, Developer, and Teacher!!I am full stack dev looking to solve real
 [![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:dhruvjainpenny@gmail.com)
 and available for any job opportunities
 
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning everything 🤣  [Udemy web][course1]!
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / drums
 
--🌱 Currently learning [Udemy web][course1]! Web Developer in 2020 with HTML, CSS, Javascript, React, Node.js
--🥅 2020 Goals: Contribute to open source projects
--📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
--🎉 Fun fact: I love to play guitar / drums
+### Connect with me:
+
+- 🌱 Currently learning [Udemy web][course1]! Web Developer in 2020 with HTML, CSS, Javascript, React, Node.js
+- 🥅 2020 Goals: Contribute to open source projects
+- 📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
+- 🎉 Fun fact: I love to play guitar / drums
 
 
 [course1]: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8582542#overview
 
 
-
+<h3>⚡️ A Few Quick Facts</h3>
 
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
