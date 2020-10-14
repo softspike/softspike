@@ -3,25 +3,20 @@ I'm a Husband, Developer, and Teacher!!I am full stack dev looking to solve real
 
 [![YouTube Badge](https://img.shields.io/badge/-@Dhruv%20Jain-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)](https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A) [![Twitter Badge](https://img.shields.io/badge/-@maddhruv-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maddhruv)](https://twitter.com/maddhruv) [![Instagram Badge](https://img.shields.io/badge/-@maddhruv-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/maddhruv)](https://twitter.com/maddhruv) [![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhruvjaink/)](https://www.linkedin.com/in/midhruvjaink/)
 [![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:dhruvjainpenny@gmail.com)
-🌱 I’m currently learning [Udemy web][course1]!  
-
-
 and available for any job opportunities
+
+
 <h3>⚡️ A Few Quick Facts</h3>
-<ul>
-      🌱 I’m currently learning [Udemy web][course1]!  
-  
-  Web Developer in 2020 with HTML, CSS, Javascript, React, Node.js</a>.</li>
+<li 🌱 I’m currently learning [Udemy web][course1]! Web Developer in 2020 with HTML, CSS, Javascript, React, Node.js</a>.</li>
 <li>🥅 2020 Goals: Contribute to open source projects
 <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
 <li>🎉 Fun fact: I love to play guitar / drums
 </ul>
 
-[Udemy web][course1]! 
-
-I’m currently learning everything 🤣  [Udemy web][course1]!
-
 [course1]: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8582542#overview
+
+
+
 
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
