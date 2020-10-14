@@ -18,7 +18,7 @@ I'm a Husband, Developer, and Teacher!!I am full stack dev looking to solve real
 
 <h2>✒️ Recent Posts</h2>
 
-### Languages and Tools uages and frameworks you enjoy using, or currently learning: <h3>Things I code with</h3>
+<h3>Languages and Tools I enjoy using</h3>
 
 <img align="left" alt="VS" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="32px" height="34"/>
 <img align="left" alt="html5" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="34"/>
