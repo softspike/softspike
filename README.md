@@ -7,6 +7,7 @@ I'm a Husband, Developer, and Teacher!!I am full stack dev looking to solve real
 [![Outlook Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:dhruvjainpenny@gmail.com)
 
 <h3>⚡️ A Few Quick Facts</h3>
+
 - 🌱 Currently improving code skills with [Udemy course][course1] Web Developer in 2020: <strong> HTML, CSS, Javascript, React, Node.js </strong>
 - 🥅 2020 Goals: Contribute to open source projects
 - 🎉 Fun fact: I love to play guitar / drums 
