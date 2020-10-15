@@ -34,7 +34,7 @@ I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/
 </p>
 
 <details>
-    <summary>Always check backups</summary>
+    <summary><strong>Always check backups</strong></summary>
     <li><a target="_blank" href="https://slim.netlify.app/pitfalls-of-the-singleton-bean">Pitfalls of the Singleton Bean — October 11, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/clickjacking-using-iframes-a-case-study">Clickjacking Using Iframes: A Case Study — July 12, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/cobol---the-hottest-programming-language-out-there">COBOL — The Hottest Programming Language Out There — May 03, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/seattle.rain.corona">seattle. rain. corona. — April 12, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/i-was-wrong-about-startup-meetups">i was wrong about startup meetups — August 29, 2019</a></li>
 </details>
 
