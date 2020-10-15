@@ -9,7 +9,7 @@ I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/
 
 - 🌱 Currently improving code skills with [Udemy course][course1] Web Developer in 2020: <strong> HTML, CSS, Javascript, React, Node.js </strong>
 - 🥅 2020 Goals: Contribute to open source projects.
-- 🎉 Fun fact: I love to play guitar / drums 🏀  🎸 🎧 .
+- 🎉 Fun fact: I love to play guitar / drums 🏀  🎸 🎧 .I also love traveling, restaurant hunting, and spending hours browsing for new music.
 - 📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
 
 [course1]: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8582542#overview
