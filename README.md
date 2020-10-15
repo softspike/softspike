@@ -3,11 +3,10 @@
 I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Stockholm, Sweden</b>. </p>
 I'm a Husband, Developer, and Teacher!!I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out @ikshitijsingh or give some ♥ on mail. Feel free to reach out in case you want to just get in touch also. and available for any job opportunities. Motivated self learner.
 
-[![Linkedin Badge](https://img.shields.io/badge/-kolia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/brian-collins-6426301ab/)](https://www.linkedin.com/in/brian-collins-6426301ab/)
-[![Outlook Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:dhruvjainpenny@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/brian-collins-6426301ab/)](https://www.linkedin.com/in/brian-collins-6426301ab/)
+[![Outlook Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:dhruvjainpenny@gmail.com)
 
 <h3>⚡️ A Few Quick Facts</h3>
-
 - 🌱 Currently improving code skills with [Udemy course][course1] Web Developer in 2020: <strong> HTML, CSS, Javascript, React, Node.js </strong>
 - 🥅 2020 Goals: Contribute to open source projects
 - 🎉 Fun fact: I love to play guitar / drums 
@@ -35,11 +34,6 @@ I'm a Husband, Developer, and Teacher!!I am full stack dev looking to solve real
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact" />
 
 </p>
-
-<details>
-    <summary>Recently read articles</summary>
-    <li><a target="_blank" href="https://slim.netlify.app/pitfalls-of-the-singleton-bean">Pitfalls of the Singleton Bean — October 11, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/clickjacking-using-iframes-a-case-study">Clickjacking Using Iframes: A Case Study — July 12, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/cobol---the-hottest-programming-language-out-there">COBOL — The Hottest Programming Language Out There — May 03, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/seattle.rain.corona">seattle. rain. corona. — April 12, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/i-was-wrong-about-startup-meetups">i was wrong about startup meetups — August 29, 2019</a></li>
-</details>
 
 <details>
     <summary>Always check backups</summary>
