@@ -9,7 +9,7 @@ I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/
 
 - 🌱 Currently improving code skills with [Udemy course][course1] Web Developer in 2020: <strong> HTML, CSS, Javascript, React, Node.js </strong>
 - 🥅 2020 Goals: Contribute to open source projects.
-- 🎉 Just facts: addicted to [medium][weblink], solving global supply chain issues and spending hours browsing for new music.
+- 🎉 Just facts: addicted to [medium][weblink], solving global supply chain issues and browsing for new music.
 - 📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
 
 [weblink]: https://medium.com
