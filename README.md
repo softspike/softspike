@@ -26,12 +26,12 @@ I'm a Husband, Developer, and Teacher!!I am full stack dev looking to solve real
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" />
-<img align="left" alt="VS" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="32px" height="34"/>
-<img align="left" alt="html5" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="34"/>
-<img align="left" alt="sass" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" width="32"/>
-<img align="left" alt="golang" src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" width="32" height="34"/>
-<img align="left" alt="terminal" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GitHub" width="31px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img alt="VS" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="32px" height="34"/>
+<img alt="html5" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="34"/>
+<img alt="sass" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" width="32"/>
+<img alt="golang" src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" width="32" height="34"/>
+<img alt="terminal" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img alt="GitHub" width="31px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
 </p>
