@@ -32,7 +32,7 @@ I'm a Husband, Developer, and Teacher!!I am full stack dev looking to solve real
 <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="golang" width="32" height="34"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="31px"/>
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="31px"/>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact" />
 
 </p>
 
