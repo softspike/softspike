@@ -37,6 +37,7 @@ I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/
 
 
 <details>
+    <br>
     <summary><strong>Always check backups</strong></summary>
     ###Typical day
 <img align="left" src="https://media1.giphy.com/media/S26EeoOw4ESM8/giphy.gif"/>
