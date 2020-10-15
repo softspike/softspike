@@ -8,7 +8,7 @@ Nice to meet you. I’m currently burning keyboards and working on something coo
 
 - 🌱 Currently improving code skills with [Udemy course][course1] Web Developer in 2020: <strong> HTML, CSS, Javascript, React, Node.js </strong>
 - 🥅 2020 Goals: Contribute to open source projects.
-- 🎉 Just facts: can't stop thinking about a problem until it is solved 🤔, addicted to [medium][weblink], restaurant hunting, and spending hours browsing for new music.
+- 🎉 Just facts: can't stop thinking about a problem until it's solved 🤔, addicted to [medium][weblink] and restaurant hunting.
 - 📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
 
 [weblink]: https://medium.com
