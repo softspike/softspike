@@ -39,38 +39,6 @@ I'm a Husband, Developer, and Teacher!!I am full stack dev looking to solve real
 
 
 
-
-
-
-
-
-
-
-
-<h3>Languages and Tools I enjoy using</h3>
-
-
-
-
-
-
-
-
-
-
-### 📺 Latest YouTube Videos
-  <summary>:zap: GitHub Stats</summary>
-  <img align="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact"/>
-
-<details>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact)
-
-</details>
-
-
-
-
   
 
 </details>
