@@ -31,10 +31,14 @@ I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS"  width="25" height="25"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="25" height="25"/>
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="25" height="25"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact"/>
 </p>
 
 <details>
     <summary><strong>Always check backups</strong></summary>
+    
+    <img align="left" src="https://media1.giphy.com/media/S26EeoOw4ESM8/giphy.gif"/>
     <li><a target="_blank" href="https://slim.netlify.app/pitfalls-of-the-singleton-bean">Pitfalls of the Singleton Bean — October 11, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/clickjacking-using-iframes-a-case-study">Clickjacking Using Iframes: A Case Study — July 12, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/cobol---the-hottest-programming-language-out-there">COBOL — The Hottest Programming Language Out There — May 03, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/seattle.rain.corona">seattle. rain. corona. — April 12, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/i-was-wrong-about-startup-meetups">i was wrong about startup meetups — August 29, 2019</a></li>
 </details>
+
+
