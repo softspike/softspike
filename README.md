@@ -1,6 +1,6 @@
 ### Hello there, I'm Evaldas<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
 <p>Welcome to my page!
-Nice to meet you. I’m currently burning keyboards and working on something cool 😉 . An MSc Computing student based in Cardiff 🏴󠁧󠁢󠁷󠁬󠁳󠁿 🇬🇧 that cannot stop thinking about a problem until it is solved 🤔. I have worked on projects that explored the functionality of operating system specific applications to web frameworks. I love to learn and work with languanges and frameworks for building web applications.
+Nice to meet you. I’m currently burning keyboards and working on something cool 😉 . An MSc Computing student based in Cardiff 🏴󠁧󠁢󠁷󠁬󠁳󠁿 🇬🇧  that cannot stop thinking about a problem until it is solved 🤔. I have worked on projects that explored the functionality of operating system specific applications to web frameworks. I love to learn and work with languanges and frameworks for building web applications.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/brian-collins-6426301ab/)](https://www.linkedin.com/in/brian-collins-6426301ab/)
 
