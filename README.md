@@ -38,21 +38,3 @@ I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/
     <summary><strong>Always check backups</strong></summary>
     <li><a target="_blank" href="https://slim.netlify.app/pitfalls-of-the-singleton-bean">Pitfalls of the Singleton Bean — October 11, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/clickjacking-using-iframes-a-case-study">Clickjacking Using Iframes: A Case Study — July 12, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/cobol---the-hottest-programming-language-out-there">COBOL — The Hottest Programming Language Out There — May 03, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/seattle.rain.corona">seattle. rain. corona. — April 12, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/i-was-wrong-about-startup-meetups">i was wrong about startup meetups — August 29, 2019</a></li>
 </details>
-
-<details>
-    <summary><strong>What I want to learn or improve in the future</strong></summary>
-    <li><a target="_blank" href="https://slim.netlify.app/pitfalls-of-the-singleton-bean">Pitfalls of the Singleton Bean — October 11, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/clickjacking-using-iframes-a-case-study">Clickjacking Using Iframes: A Case Study — July 12, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/cobol---the-hottest-programming-language-out-there">COBOL — The Hottest Programming Language Out There — May 03, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/seattle.rain.corona">seattle. rain. corona. — April 12, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/i-was-wrong-about-startup-meetups">i was wrong about startup meetups — August 29, 2019</a></li>
-    Everything OMG 😭
-
-Since I'm a human being and cannot specialize in everything, I guess I will focus on...
-
-WebGL, GLSL & so on
-C++
-Python
-English :trollface:
-probably one more foreign language
-Soft skills :bowtie:
-UI/UX design
-...and many more of course
-    
-</details>
