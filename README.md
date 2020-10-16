@@ -10,7 +10,7 @@ Nice to meet you. An MSc Computing student based in Cardiff 🏴󠁧󠁢󠁷󠁬
 - 🥅 2020 Goals: Contribute to open source projects.
 - 🎉 Just facts: can't stop thinking about a problem until it's solved 🤔 love reading [medium][weblink] and addicted to restaurant hunting.
 - ☕ Moto: If you're going to do something, then do it properly.
-- 📙 Check out my <a href="https://drive.google.com/drive/u/1/folders/1-wiz2vpZHT7rAhwVfnbwrhIEBswJaX6R">resume</a>.</li>
+- 📙 Check out my <a href="https://drive.google.com/drive/folders/1-wiz2vpZHT7rAhwVfnbwrhIEBswJaX6R?usp=sharing">resume</a>.</li>
 
 [weblink]: https://medium.com
 [course1]: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8582542#overview
