@@ -9,6 +9,7 @@ Nice to meet you. I’m currently burning keyboards and working on something coo
 - 🌱 Currently improving code skills with [Udemy course][course1] Web Developer in 2020: <strong> HTML, CSS, Javascript, React, Node.js </strong>
 - 🥅 2020 Goals: Contribute to open source projects.
 - 🎉 Just facts: can't stop thinking about a problem until it's solved 🤔 love reading [medium][weblink] and addicted to restaurant hunting.
+- ☕ Moto: If you're going to do something, then do it properly.
 - 📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
 
 [weblink]: https://medium.com
