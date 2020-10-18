@@ -39,11 +39,9 @@ Nice to meet you. An MSc Computing student based in Cardiff 🏴󠁧󠁢󠁷󠁬
 
 <details>
     <br>
-    <summary><strong>Always check backups❗❗❗</strong></summary>
+    <summary><strong>Always check backups❗</strong></summary>
     ### a day in the life💭
 <img align="left" src="https://media1.giphy.com/media/S26EeoOw4ESM8/giphy.gif"/>
-    
-    
 </details>
 
 
