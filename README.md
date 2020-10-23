@@ -39,7 +39,7 @@ Some of my favorite topics to learn about are algorithms, artificial intelligenc
 
 
 <p><strong>Always check backups❗</strong></p>
-<img align="left" src="https://media1.giphy.com/media/S26EeoOw4ESM8/giphy.gif"/> ### a day in the life 💭 
+<p><img align="left" src="https://media1.giphy.com/media/S26EeoOw4ESM8/giphy.gif"/>### a day in the life 💭 </p>
 
 
 
