@@ -38,10 +38,8 @@ Some of my favorite topics to learn about are algorithms, artificial intelligenc
 </p>
 
 
-<details>
-    <br>
-    <p><strong>Always check backups❗</strong></p>
+<p><strong>Always check backups❗</strong></p>
 <img align="left" src="https://media1.giphy.com/media/S26EeoOw4ESM8/giphy.gif"/>
-</details>
+
 
 
