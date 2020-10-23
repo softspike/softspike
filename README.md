@@ -36,9 +36,9 @@ Some of my favorite topics to learn about are algorithms, artificial intelligenc
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="25" height="25"/>
     <summary><strong>Always check backups❗</strong></summary>
     <p>### a day in the life💭</p>
-<img align="left" src="https://media1.giphy.com/media/S26EeoOw4ESM8/giphy.gif"/>
+<img align="right" src="https://media1.giphy.com/media/S26EeoOw4ESM8/giphy.gif"/>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact"/>
 
 
