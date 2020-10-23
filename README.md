@@ -39,12 +39,6 @@ Some of my favorite topics to learn about are algorithms, artificial intelligenc
 <img align="left" src="https://media1.giphy.com/media/S26EeoOw4ESM8/giphy.gif"/>
 </p>
 
-
-
-<details>
-    <br>
-    <summary><strong>Always check backups❗</strong></summary>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softspike&layout=compact"/>
-</details>
 
 
