@@ -1,5 +1,5 @@
 ### Hello there, I'm Evaldas<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
-<p> Welcome to my page! You have found an MSc Computing student based in Cardiff 🏴󠁧󠁢󠁷󠁬󠁳󠁿 🇬🇧 . Anything and everything that can be classified as technology💻 fascinates me. During the studies, I have worked on projects that explored the functionality of operating system specific applications to web frameworks. 
+<p> Welcome to my page! You have found an MSc Computing student based in Cardiff 🏴󠁧󠁢󠁷󠁬󠁳󠁿 🇬🇧 . Anything and everything that can be classified as technology💻 fascinates me.
     
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vilkinas/)](https://www.linkedin.com/in/vilkinas/)
 
