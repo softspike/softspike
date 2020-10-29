@@ -1,7 +1,5 @@
 ### Hello there, I'm Evaldas<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
 <p> Welcome to my page! You have found an MSc Computing student based in Cardiff 🏴󠁧󠁢󠁷󠁬󠁳󠁿 🇬🇧 . Anything and everything that can be classified as technology💻 fascinates me.
-    
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vilkinas/)](https://www.linkedin.com/in/vilkinas/)
 
 <h3>⚡️ A Few Quick Facts</h3>
 
@@ -10,6 +8,8 @@
 - 🎉 Just facts: enjoy reading [medium][weblink] and addicted to restaurant hunting.
 - ☕ Moto: If you're going to do something, then do it properly.
 - 📙 Check out my <a href="https://drive.google.com/drive/folders/1-wiz2vpZHT7rAhwVfnbwrhIEBswJaX6R?usp=sharing">resume</a>.</li>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vilkinas/)](https://www.linkedin.com/in/vilkinas/)
 
 [weblink]: https://medium.com
 [course1]: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8582542#overview
