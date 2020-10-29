@@ -7,7 +7,7 @@
 
 - 🌱 Currently improving code skills with [Udemy course][course1] Web Developer in 2020: <strong> HTML, CSS, Javascript, React, Node.js </strong>
 - 🥅 2020 Goals: Contribute to open source projects.
-- 🎉 Just facts: can't stop thinking about a problem until it's solved 🤔 love reading [medium][weblink] and addicted to restaurant hunting.
+- 🎉 Just facts: enjoy reading [medium][weblink] and addicted to restaurant hunting.
 - ☕ Moto: If you're going to do something, then do it properly.
 - 📙 Check out my <a href="https://drive.google.com/drive/folders/1-wiz2vpZHT7rAhwVfnbwrhIEBswJaX6R?usp=sharing">resume</a>.</li>
 
