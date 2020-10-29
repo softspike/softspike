@@ -1,9 +1,7 @@
 ### Hello there, I'm Evaldas<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
 <p>Welcome to my page!
-Nice to meet you. An MSc Computing student based in Cardiff 🏴󠁧󠁢󠁷󠁬󠁳󠁿 🇬🇧 . Anything and everything that can be classified as technology💻 fascinates me. I have worked on projects that explored the functionality of operating system specific applications to web frameworks. I love to learn and work with languages and frameworks for building web applications.
+Welcome to my page! You have found, an MSc Computing student based in Cardiff 🏴󠁧󠁢󠁷󠁬󠁳󠁿 🇬🇧 . Anything and everything that can be classified as technology💻 fascinates me. During the studies, I have worked on projects that explored the functionality of operating system specific applications to web frameworks. I love to learn and work with MERN stack.
     
-Some of my favorite topics to learn about are algorithms, artificial intelligence, cloud computing, game development, virtual reality, and (full-stack) web development.
-
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vilkinas/)](https://www.linkedin.com/in/vilkinas/)
 
 <h3>⚡️ A Few Quick Facts</h3>
