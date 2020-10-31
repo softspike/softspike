@@ -9,7 +9,7 @@
 - ☕ Moto: If you're going to do something, then do it properly.
 - 📙 Check out my <a href="https://drive.google.com/drive/folders/1-wiz2vpZHT7rAhwVfnbwrhIEBswJaX6R?usp=sharing">resume</a>.</li>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vilkinas/)](https://www.linkedin.com/in/vilkinas/)
+
 
 [weblink]: https://medium.com
 [course1]: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8582542#overview
