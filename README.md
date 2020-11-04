@@ -7,7 +7,7 @@
 - 🥅 2020 Goals: Contribute to open source projects.
 - 🎉 Just facts: enjoy reading [medium][weblink] and addicted to restaurant hunting.
 - ☕ Moto: If you're going to do something, then do it properly.
-- 📙 Check out my <a href="https://drive.google.com/drive/folders/1-wiz2vpZHT7rAhwVfnbwrhIEBswJaX6R?usp=sharing">resume</a>.</li>
+- 📙 Check out my <a href="https://drive.google.com/drive/folders/1PajSiQCi68x5KlJx9RY6-ep9b7aVTAz7?usp=sharing">resume</a>.</li>
 
 
 
