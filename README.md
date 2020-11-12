@@ -3,7 +3,7 @@
 
 <h3>⚡️ A Few Quick Facts</h3>
 
-- 🌱 Currently improving code skills with [Udemy course][course1] Web Developer in 2020: <strong> HTML, CSS, Javascript, React, Node.js </strong>
+- 🌱 Currently improving code skills with [Udemy course][course1] Web Developer in 2020: <strong> CSS, Javascript, React, Node.js </strong>
 - 🥅 2020 Goals: Contribute to open source projects.
 - 🎉 Just facts: enjoy reading [medium][weblink] and addicted to restaurant hunting.
 - ☕ Moto: If you're going to do something, then do it properly.
