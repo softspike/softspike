@@ -4,7 +4,7 @@
 <h3>⚡️ A Few Quick Facts</h3>
 
 - 🌱 Currently improving code skills with [Udemy course][course1] Web Developer in 2020: <strong> CSS, Javascript, React, Node.js </strong>
-- 🌱 Currently improving code skills with [Udemy course][course3] with this project-focused course: <strong> Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN) </strong>
+- 🌱 Currently improving code skills with project-focused [Udemy course][course3]: <strong> Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN) </strong>
 - 🌱 Currently code-along  with [Youtube course][course2] ECommerce Web Shop: <strong> React.js, Commerce.js, Stripe, Material UI </strong>
 - 🥅 2021 Goals: Contribute to open source projects.
 - 🎉 Just facts: enjoy reading [medium][weblink] and addicted to restaurant hunting.
