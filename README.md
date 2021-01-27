@@ -2,10 +2,11 @@
 <p> Welcome to my page! You have found a MSc Computing student based in Cardiff 🏴󠁧󠁢󠁷󠁬󠁳󠁿 🇬🇧 . Anything and everything that can be classified as technology💻 fascinates me.
 
 <h3>⚡️ A Few Quick Facts</h3>
-
+Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN)
 - 🌱 Currently improving code skills with [Udemy course][course1] Web Developer in 2020: <strong> CSS, Javascript, React, Node.js </strong>
+- 🌱 Currently improving code skills with [Udemy course][course3] with this project-focused course: <strong> Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN) </strong>
 - 🌱 Currently code-along  with [Youtube course][course2] ECommerce Web Shop: <strong> React.js, Commerce.js, Stripe, Material UI </strong>
-- 🥅 2020 Goals: Contribute to open source projects.
+- 🥅 2021 Goals: Contribute to open source projects.
 - 🎉 Just facts: enjoy reading [medium][weblink] and addicted to restaurant hunting.
 - ☕ Moto: If you're going to do something, then do it properly.
 - 📙 Check out my <a href="https://drive.google.com/drive/folders/1PajSiQCi68x5KlJx9RY6-ep9b7aVTAz7?usp=sharing">resume</a>.</li>
@@ -15,6 +16,7 @@
 [weblink]: https://medium.com
 [course1]: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8582542#overview
 [course2]: https://www.youtube.com/watch?v=377AQ0y6LPA
+[course3]: https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/learn/lecture/16808122?start=15#overview
 
 <h3>🚀 Some Tools I Use</h3>
 <p align="left">
